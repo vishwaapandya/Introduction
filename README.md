@@ -75,13 +75,13 @@ Ai in research branding,wrting and visualization — Sardar patel university, 20
 📬 Contact Me
 
 <p align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:pandyavishwa7@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="www.linkedin.com/in/vishwaa-pandya-8118b1304">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/vishwaapandya">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
 </p>
